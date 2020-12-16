@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(34, 57, 106); font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#address {
+    color:white
+}
+#heading {
+    color:white
+}
+.heading2 {
+    color:rgb(10, 172, 10)
+}
+.heading3 {
+    color:white
+}
+.paragraph {
+    color:white
+}
+a:link {
+    color: rgb(180, 27, 116)
+}
